@@ -1,6 +1,8 @@
 # Exoplayer-VideoPlayer-in-Recyclerview-Kotlin
-Exoplayer To Play Videos in RecyclerView Like Instagram
-Android Studio - 2020.3.1
+Exoplayer To Play Videos in RecyclerView Like Instagram.
+
+Android Studio - 2020.3.1.
+
 Android Target SDK - 31
 
 
